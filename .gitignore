@@ -86,3 +86,9 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+set_env.sh
+
+deployment/aws-secret.yaml
+deployment/env-secret.yaml
+deployment/env-configmap.yaml
